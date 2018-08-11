@@ -15,7 +15,7 @@ contract Wrestling {
     bool public wrestler2Played;
 
     uint private wrestler1Deposit;
-    uint private wrestler2Depssit;
+    uint private wrestler2Deposit;
 
     bool public gameFinished;
     address public theWinner;
